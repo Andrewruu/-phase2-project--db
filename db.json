@@ -35,5 +35,20 @@
       "likes": "false",
       "chapters": "150"
     }
+  ],
+
+  "user": [
+    {
+      "id": 1,
+      "username": "Andrew",
+      "password": "test",
+      "novels": [1,3] 
+    },
+    {
+      "id": 2,
+      "username": "test",
+      "password": "test",
+      "novels": [1,3,4] 
+    }
   ]
 }

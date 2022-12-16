@@ -2,53 +2,64 @@
   "novels": [
     {
       "id": 1,
-      "title": "Coiling Dragon",
+      "title": "Coiling Dragons",
       "image": "https://cdn.novelupdates.com/images/2016/03/s4437529.jpg",
-      "likes": "true",
-      "chapters": "1000"
+      "likes": true,
+      "chapters": "1002",
+      "summary": "Empires rise and fall on the Yulan Continent. Saints, immortal beings of unimaginable power, battle using spells and swords, leaving swathes of destruction in their wake. Magical beasts rule the mountains, where the brave – or the foolish – go to test their strength. Even the mighty can fall, feasted on by those stronger. The strong live like royalty; the weak strive to survive another day. This is the world which Linley is born into. Raised in the small town of Wushan, Linley is a scion of the Baruch clan, the clan of the once-legendary Dragonblood Warriors. Their fame once shook the world, but the clan is now so decrepit that even the heirlooms of the clan have been sold off. Tasked with reclaiming the lost glory of his clan, Linley will go through countless trials and tribulations, making powerful friends but also deadly enemies. Come witness a new legend in the making. The legend of Linley Baruch!"
     },
     {
       "id": 2,
       "title": "Luoyang Brocade",
       "image": "https://cdn.novelupdates.com/images/2019/08/61KfO1tntJL.jpg",
-      "likes": "true",
-      "chapters": "150"
+      "likes": false,
+      "chapters": "150",
+      "summary": "Ling Jing Shu lived with humiliation and heavy burdens all her life, and only at the moment before death, she suddenly woke up and repented. If god gives her a chance to live for a second time, she will say three words to the man who let her down: You Get Lost!!"
     },
     {
       "id": 3,
       "title": "Library of Heaven's Path",
       "image": "https://cdn.novelupdates.com/images/2017/03/Library-of-Heaven%E2%80%99s-Path.jpg",
-      "likes": "false",
-      "chapters": "542"
+      "likes": true,
+      "chapters": "542",
+      "summary": "Traversing into another world, Zhang Xuan finds himself becoming an honorable teacher. Along with his transcension, a mysterious library appears in his mind. As long as it is something he has seen, regardless of whether it is a human or an object, a book on its weaknesses will be automatically compiled in the library. Thus, he becomes formidable. “Emperor Zhuoyang, why do you detest wearing your underwear so much? As an emperor, can't you pay a little more attention to your image?”  “Fairy Linglong, you can always look for me if you find yourself unable to sleep at night. I am skilled in lullabies!” “And you, Demon Lord Qiankun! Can you cut down on the garlic? Are you trying to kill me with that stench?” This is an incredible story about teachers and students, grooming and guiding the greatest experts in the world!"
     },
     {
       "id": 4,
       "title": "I'm Really a Superstar",
       "image": "https://cdn.novelupdates.com/images/2017/06/Im-Really-a-Superstar.jpg",
-      "likes": "false",
-      "chapters": "54"
+      "likes": true,
+      "chapters": "54",
+      "summary": "Zhang Ye was originally a mundane college graduate with aspiring dreams to become a star, but unfortunately has below average looks and height. However one day, he woke up and suddenly found himself in a parallel world! It's like the same world, but wait a minute…many brands, celebrities and even famous works from his world changed and are gone in this new world! Armed with the profound literary knowledge of his previous world and a heaven-defying Game Ring that gives him magical items, stats and skills, Zhang Ye embarks on a journey to pursue his life-long dream of becoming famous! Follow Zhang Ye as he takes the new world by storm, one plagiarized piece at a time, to hilarious reactions!"
     },
     {
       "id": 5,
       "title": "Swallowed Star",
       "image": "https://cdn.novelupdates.com/images/2017/06/Swallowed-Star.jpg",
-      "likes": "false",
-      "chapters": "150"
+      "likes": false,
+      "chapters": "150",
+      "summary": "Year 2056, in a city in the Yuan Jiang Su Jin area. On top of a ruined, shattered six story residential apartment sits a teenager wearing a combat vest, militaristic trousers, and alloyed battle boots. On his back is a hexagonal shield and equipped is a blood-shadow battle knife. He sits there silently on the edge of the roof. At this time, the sparkling sky was shining and there was a refreshing breath within the air that blew towards him. However, there was only silence within the ruined, deserted city, with an occasional howl that makes your heart skip a beat."
     }
   ],
-
   "user": [
     {
       "id": 1,
       "username": "Andrew",
       "password": "test",
-      "novels": [1,3] 
+      "novelids": [
+        1,
+        3
+      ]
     },
     {
       "id": 2,
       "username": "test",
       "password": "test",
-      "novels": [1,3,4] 
+      "novelids": [
+        1,
+        4,
+        5
+      ]
     }
   ]
 }
